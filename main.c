@@ -1,3 +1,13 @@
+/*
+Wrote by: NG KHEE ONG
+Date: 12/5/2023
+
+https://github.com/kheeong/ncurse
+Download from github if there is any problem with the format
+
+TESTED ON: Ubuntu 20.04.2 LTS (WSL)
+TO COMPILE: gcc main.c -o main -lncurses
+*/
 #include <ncurses.h>
 #include <string.h>
 #include <stdlib.h>
